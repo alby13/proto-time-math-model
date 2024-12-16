@@ -105,3 +105,4 @@ Scatter Plot: A scatter plot of the transition potential, with the x-axis repres
 These visualizations provide a more comprehensive understanding of the proto-time transition and its evolution over time.
 
 <img src="https://github.com/alby13/proto-time-math-model/blob/main/version3-screenshot.png">
+Version 3
