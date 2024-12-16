@@ -1,3 +1,6 @@
+<img src="https://github.com/alby13/proto-time-math-model/blob/main/prototime3d-output.png">
+Proto-Time 3D Advanced Visual (Prototime3D.py)
+
 # Preliminary Mathematical Model for Proto-Time
 
 Mathematical Modeling Approach
