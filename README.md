@@ -46,3 +46,35 @@ Explore additional dimensional representations
 Program output:
 
 <img src="https://github.com/alby13/proto-time-math-model/blob/main/output-screenshot.png">
+
+Overview of the ProtoTimeModel Program
+
+The provided Python program defines a class ProtoTimeModel that simulates a theoretical model of proto-time, which is a hypothetical concept representing the early stages of time in the universe. The model incorporates quantum uncertainty and non-linearity to describe the progression of proto-time.
+
+Class Structure and Methods
+
+The ProtoTimeModel class has the following methods:
+
+
+__init__: Initializes the model with configurable parameters:
+
+dimensionality: The number of dimensions in the proto-time space (default: 4).
+
+quantum_uncertainty: The level of quantum fluctuation (default: 0.01).
+
+_generate_proto_time_metric: Generates a symmetric metric tensor representing the proto-time space with quantum fluctuations.
+
+_define_proto_laws: Defines symbolic proto-laws governing temporal progression, combining quantum uncertainty with potential energy dynamics.
+
+simulate_proto_time_transition: Simulates potential transition dynamics from proto-time to spacetime, returning a transition potential series.
+
+visualize_proto_time_transition: Generates a visualization of the proto-time transition using Matplotlib.
+
+Key Features and Assumptions
+
+The model assumes a higher-dimensional representation of proto-time space, with a configurable number of dimensions.
+
+Quantum uncertainty is introduced through random fluctuations in the metric tensor and transition potential.
+
+The proto-laws are defined symbolically, allowing for non-linear and quantum-influenced progression.
+The transition potential is simulated using a combination of cyclic and decay components, with added quantum noise.
