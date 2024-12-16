@@ -103,3 +103,5 @@ Heatmap: A heatmap of the transition potential, with the x-axis representing the
 Scatter Plot: A scatter plot of the transition potential, with the x-axis representing the iteration and the y-axis representing the transition potential.
 
 These visualizations provide a more comprehensive understanding of the proto-time transition and its evolution over time.
+
+<igm src="https://github.com/alby13/proto-time-math-model/blob/main/version3-screenshot.png">
