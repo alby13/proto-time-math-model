@@ -85,7 +85,21 @@ The transition potential is simulated using a combination of cyclic and decay co
 
 <hr>
 
+<img src="https://github.com/alby13/proto-time-math-model/blob/main/3d-output.png">
+
 
 # Advanced Visualization of Proto-Time Transition
 
 To create a more advanced visualization of the proto-time transition, we can use a combination of 2D and 3D plots to illustrate the transition potential and its evolution over time. We'll also use different colors and markers to highlight specific features of the transition.
+
+This code generates four different visualizations of the proto-time transition:
+
+2D Plot: A simple 2D plot of the transition potential over time.
+
+3D Plot: A 3D plot of the transition potential, with the x-axis representing the iteration, the y-axis representing the dimension, and the z-axis representing the transition potential.
+
+Heatmap: A heatmap of the transition potential, with the x-axis representing the iteration and the color representing the transition potential. (Work In Progress)
+
+Scatter Plot: A scatter plot of the transition potential, with the x-axis representing the iteration and the y-axis representing the transition potential.
+
+These visualizations provide a more comprehensive understanding of the proto-time transition and its evolution over time.
