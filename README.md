@@ -41,3 +41,5 @@ Recommendations for Further Development:
 Collaborate with quantum physicists to refine the mathematical model
 Develop more sophisticated transition potential functions
 Explore additional dimensional representations
+
+<img src="https://github.com/alby13/proto-time-math-model/blob/main/output-screenshot.png">
