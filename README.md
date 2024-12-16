@@ -85,7 +85,7 @@ The transition potential is simulated using a combination of cyclic and decay co
 
 <hr>
 
-<img src="https://github.com/alby13/proto-time-math-model/blob/main/3d-output.png">
+<img src="https://github.com/alby13/proto-time-math-model/blob/main/3d-output.jpg">
 
 
 # Advanced Visualization of Proto-Time Transition
